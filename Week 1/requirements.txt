@@ -1,0 +1,7 @@
+python==3.1.15
+pandas==2.2.3
+jupyter_core==5.7.2
+matplotlib-inline==0.1.7
+seaborn==0.13.2
+jdatetime==5.2.0
+
